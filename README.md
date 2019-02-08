@@ -13,7 +13,7 @@ To implement this you have to enable the SQLite3 extention in PHP.
 <hr>
 To add sqlite3 extention in linux environment use the command<br>
 <code>sudo apt-get install php-sqlite3</code>
+<br/><br/>
 
-<br>
-To if SQLite3 is installed in PHP use following command<br>
+To if SQLite3 is installed in PHP use following command<br/>
 <code>php -m </code>
